@@ -13,7 +13,7 @@ const Education = () => {
         I completed my Higher Secondary from K. M. High School, Bankura. I scored 82% in my Higher Secondary examination and my stream being Pure Science.
         </div>
         <div className='border-l-4 border-blue-500 rounded-lg shadow-lg p-5 md:p-8 md:w-1/3'>
-        I completed my Matriculation from Jujur High School, Bankura. I scored 79% in my class 10th examination. 
+        I completed my Secondary from Jujur High School, Bankura. I scored 79% in my class 10th examination. 
         </div>
       </div>
     </div>
