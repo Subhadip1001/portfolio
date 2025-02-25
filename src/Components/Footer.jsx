@@ -21,9 +21,10 @@ const Footer = () => {
           />
         </a>
       </div>
+      {/* Resume */}
       <div>
         <a
-          href="https://drive.google.com/file/d/1B5JMvroZtEyIyxbZekWTLIiP23NMsEb_/view?usp=sharing"
+          href="https://drive.google.com/file/d/1FG5DyOCj4sJo15OCENtGq55JiT7E8zLQ/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="fixed right-3 bottom-20 md:bottom-32 bg-blue-400 p-3 rounded-full shadow-lg md:flex md:h-20 md:w-20 md:items-center md:justify-center"

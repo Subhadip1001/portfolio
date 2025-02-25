@@ -7,7 +7,7 @@ const Education = () => {
       <div className='flex flex-col md:justify-evenly md:flex-row gap-5 mt-4'>
         <div className='border-l-4 border-blue-500 rounded-lg shadow-lg p-5 md:p-8 md:w-1/3'>
         I am currently pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE) at <span className='font-semibold'>Sister Nivedita University</span>.
-        <p>CGPA: 8.27</p>
+        <p>CGPA: 8.29</p>
         </div>
         <div className='border-l-4 border-blue-500 rounded-lg shadow-lg p-5 md:p-8 md:w-1/3'>
         I completed my Higher Secondary from K. M. High School, Bankura. I scored 82% in my Higher Secondary examination and my stream being Pure Science.
