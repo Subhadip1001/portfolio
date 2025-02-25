@@ -1,14 +1,9 @@
 import React from "react";
-import { FaSquareGithub } from "react-icons/fa6";
-import { TiSocialTwitter } from "react-icons/ti";
-import { FaFacebook } from "react-icons/fa";
-import { RiInstagramFill } from "react-icons/ri";
-import { FaLinkedin } from "react-icons/fa";
-
 
 const Footer = () => {
   return (
     <>
+    {/* Gmail */}
       <div>
         <a
           href="mailto:subhadipmandal98833@gmail.com"
