@@ -7,9 +7,9 @@ import Profile from '../assets/Profile.jpg';
 
 const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false);
-  
+
   const list = ["Home", "Education", "Skills", "Projects",];
-  
+
   return (
     <>
       <div className="bg-white max-w-screen-2xl container mx-auto px-4 md:px-20 shadow-lg px-6 py-3 fixed top-0 left-0 right-0 z-50">
