@@ -10,6 +10,8 @@ import Python from "../assets/Python.png";
 import Cpp from "../assets/Cpp.png";
 import JAVA from "../assets/JAVA.png";
 import Express from "../assets/Express.png";
+import PostgreSQL from "../assets/PostgreSQL.png";
+
 
 const skills = [
   {
@@ -66,6 +68,11 @@ const skills = [
     title: "Python",
     img: Python,
     level: "Basic",
+  },
+  {
+    title: "PostgreSQL",
+    img: PostgreSQL,
+    level: "",
   },
 ];
 
